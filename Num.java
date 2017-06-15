@@ -7,7 +7,6 @@ class Num
         Scanner s=new Scanner(System.in);
         int a=s.nextInt();
         int count=0;
-        Num.java
         while(a>0)
         {
             int k=a%10;
