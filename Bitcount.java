@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.lang.Integer.*;
-class bitcount {
+class Bitcount {
     public static void main(String args[] ) throws Exception {
         Scanner s=new Scanner(System.in);
         int n=s.nextInt();
